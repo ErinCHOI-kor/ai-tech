@@ -14,7 +14,7 @@ os.path.join(os.path.dirname(__file__), 'cnn_test'))
 
 from config import Config
 from network import Model
-
+# test
 
 SEED = 42
 torch.manual_seed(SEED)
